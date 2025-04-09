@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/opentable/mercury.git"
+    "url": "git+https://github.com/opentable/mercury-bot.git"
   },
   "keywords": [
     "translation",
@@ -31,9 +31,9 @@
   "author": "Federico Maffei <federico.maffei@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/opentable/mercury/issues"
+    "url": "https://github.com/opentable/mercury-bot/issues"
   },
-  "homepage": "https://github.com/opentable/mercury#readme",
+  "homepage": "https://github.com/opentable/mercury-bot#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint": "6.1.0",
