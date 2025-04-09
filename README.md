@@ -82,7 +82,7 @@ Event handler for connecting to a logger. The following events are emitted:
 |name|payload object props|description|
 |----|--------------------|-----------|
 |`action`|`{ message}`|The message contains a description of the performed action|
-|`error`|`{ error, errorType, details }`|The error is a javascript `Error` object containing the whole stacktrace. The errorType is a string identifier for the error, and the details contains all the state of the performed actions for the current repository for further investigation|
+|`error`|`{ error, errorType, details }`|The error is a Javascript `Error` object containing the whole stacktrace. The errorType is a string identifier for the error, and the details contains all the state of the performed actions for the current repository for further investigation|
 |`result`|`{ message, resultType }`|The message contains a description of the performed action, the resultType is an identifier for the current action|
 
 #### License
