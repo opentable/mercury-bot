@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "@octokit/rest": "^16.43.2",
-    "async": "2.6.3",
+    "async": "2.6.4",
     "base-64": "0.1.0",
     "config": "1.31.0",
     "deep-diff": "0.3.8",
